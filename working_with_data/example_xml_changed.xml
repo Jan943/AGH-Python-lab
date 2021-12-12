@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<cars>
+    <car id="1">
+        <name>Mercedes</name>
+        <year>2019</year>
+    </car>
+    <car id="2">
+        <name>Audi</name>
+        <year>2018</year>
+    </car>
+    <car id="3">
+        <name is4x4="no">BMW</name>
+        <year>2020</year>
+    </car>
+</cars>
